@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 def main():
 
 
@@ -69,7 +63,6 @@ def main():
 
             i-=1
         '''
-    inspect.sort()
 
     print(len(inspect))
     for ins in inspect:
